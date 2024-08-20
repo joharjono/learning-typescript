@@ -1,3 +1,3 @@
 # Auto detect text files and perform LF normalization
-01-intro/note!.txt
+./01-intro/note!.txt
 * text=auto
