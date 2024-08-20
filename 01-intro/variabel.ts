@@ -14,4 +14,13 @@ let userId: number = 2;
 //boolean
 let isLoogedIn: boolean = false;
 
+// any
+let hero: any; //when u set noimplicitany "true" he use any default
+
+function getHero() {
+  return false;
+}
+
+hero = getHero();
+
 export {};
